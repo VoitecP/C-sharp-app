@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C sharp App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48abd229e8cd96e6e5728595172097709846e022")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1236029746d6f93ac2f9294570b94b6104b7905e")]
 [assembly: System.Reflection.AssemblyProductAttribute("C sharp App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C sharp App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

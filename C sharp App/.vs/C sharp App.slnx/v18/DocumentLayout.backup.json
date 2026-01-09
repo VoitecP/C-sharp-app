@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\GitHub\\C-sharp-app\\C sharp App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4B1652E-9DB6-BE52-69FA-DCEAD943CF89}|C sharp App.csproj|c:\\github\\c-sharp-app\\c sharp app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A4B1652E-9DB6-BE52-69FA-DCEAD943CF89}|C sharp App.csproj|c:\\github\\c-sharp-app\\c sharp app\\c sharp app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4B1652E-9DB6-BE52-69FA-DCEAD943CF89}|C sharp App.csproj|solutionrelative:c sharp app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B1652E-9DB6-BE52-69FA-DCEAD943CF89}|C sharp App.csproj|c:\\github\\c-sharp-app\\c sharp app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B1652E-9DB6-BE52-69FA-DCEAD943CF89}|C sharp App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B1652E-9DB6-BE52-69FA-DCEAD943CF89}|C sharp App.csproj|C:\\GitHub\\C-sharp-app\\C sharp App\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A4B1652E-9DB6-BE52-69FA-DCEAD943CF89}|C sharp App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{A4B1652E-9DB6-BE52-69FA-DCEAD943CF89}|C sharp App.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4B1652E-9DB6-BE52-69FA-DCEAD943CF89}|C sharp App.csproj|c:\\github\\c-sharp-app\\c sharp app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4B1652E-9DB6-BE52-69FA-DCEAD943CF89}|C sharp App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4B1652E-9DB6-BE52-69FA-DCEAD943CF89}|C sharp App.csproj|c:\\github\\c-sharp-app\\c sharp app\\database\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B1652E-9DB6-BE52-69FA-DCEAD943CF89}|C sharp App.csproj|solutionrelative:database\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,53 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\GitHub\\C-sharp-app\\C sharp App\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\GitHub\\C-sharp-app\\C sharp App\\Form1.Designer.cs*",
-              "RelativeToolTip": "Form1.Designer.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T11:28:32.376Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "db.cs",
+              "DocumentMoniker": "C:\\GitHub\\C-sharp-app\\C sharp App\\database\\db.cs",
+              "RelativeDocumentMoniker": "database\\db.cs",
+              "ToolTip": "C:\\GitHub\\C-sharp-app\\C sharp App\\database\\db.cs",
+              "RelativeToolTip": "database\\db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:11:43.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "C sharp App.csproj",
+              "DocumentMoniker": "C:\\GitHub\\C-sharp-app\\C sharp App\\C sharp App.csproj",
+              "RelativeDocumentMoniker": "C sharp App.csproj",
+              "ToolTip": "C:\\GitHub\\C-sharp-app\\C sharp App\\C sharp App.csproj",
+              "RelativeToolTip": "C sharp App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T12:10:24.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\GitHub\\C-sharp-app\\C sharp App\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\GitHub\\C-sharp-app\\C sharp App\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T11:28:32.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\GitHub\\C-sharp-app\\C sharp App\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\GitHub\\C-sharp-app\\C sharp App\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\GitHub\\C-sharp-app\\C sharp App\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T11:05:14.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Projekt]",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\GitHub\\C-sharp-app\\C sharp App\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\GitHub\\C-sharp-app\\C sharp App\\Form1.cs [Projekt]*",
-              "RelativeToolTip": "Form1.cs [Projekt]*",
+              "ToolTip": "C:\\GitHub\\C-sharp-app\\C sharp App\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T10:57:43.307Z",
-              "EditorCaption": " [Projekt]"
+              "EditorCaption": " [Design]"
             }
           ]
         }
